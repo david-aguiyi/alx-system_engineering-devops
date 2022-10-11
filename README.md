@@ -1,1 +1,1 @@
-Task B , Where am I?
+Readme for shell task 3
